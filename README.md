@@ -13,4 +13,8 @@ Day 1
         * Gist Link: https://gist.github.com/mjstevens777/e8543e83d61bb9d449b723c009d2c7ac     
     * 2.b Twitter N-gram 
        * Post Link: https://www.reddit.com/r/dataisbeautiful/comments/hzemba/oc_storywrangler_twitter_ngram_viewer/
-   
+Day2
+1) Coursera --> Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+    1.a Image Classification on MNIST DATA - Hand written digit recognition
+    1.b Callback Funtion --> to Terminate Network training based on accuracy or loss threshold
+    
