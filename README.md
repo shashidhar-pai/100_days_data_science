@@ -19,3 +19,6 @@ Day2
     * 1.a Image Classification on MNIST DATA - Hand written digit recognition 
     * 1.b Callback Funtion --> to Terminate Network training based on accuracy or loss threshold
     
+Day 3
+1) Implemented CNN to classify Fashion MNIST Data. 
+2) Visualising the Output of the 1st Convolutional Layer.
