@@ -20,5 +20,9 @@ Day2
     * 1.b Callback Funtion --> to Terminate Network training based on accuracy or loss threshold
     
 Day 3
-1) Implemented CNN to classify Fashion MNIST Data. 
+1) Coursera --> Implemented CNN to classify Fashion MNIST Data. 
 2) Visualising the Output of the 1st Convolutional Layer.
+
+Day 4 
+1) Exploring Datasets and Visualisations Indian Census, Aircraft Trajectory.
+2) Coursera --> Week 4 
