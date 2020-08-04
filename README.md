@@ -26,3 +26,6 @@ Day 3
 Day 4 
 1) Exploring Datasets and Visualisations Indian Census, Aircraft Trajectory.
 2) Coursera --> Week 4 
+
+Day 5
+1) Coursera --> Week 4 Image Labeling using ImageDataGenerator
