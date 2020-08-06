@@ -37,3 +37,6 @@ Day 7
 1) ImageDataGenerator 
 2) Image Classifier -- Human vs Horses
 3) Image Classifier -- Happy vs Sad
+
+Day 8 
+1) Image Classifer -- Dog vs Cat
