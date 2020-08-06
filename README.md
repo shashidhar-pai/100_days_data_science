@@ -29,3 +29,11 @@ Day 4
 
 Day 5
 1) Coursera --> Week 4 Image Labeling using ImageDataGenerator
+
+Day 6 
+1) Blog Draft -- Introduction to Image Processing 
+
+Day 7
+1) ImageDataGenerator 
+2) Image Classifier -- Human vs Horses
+3) Image Classifier -- Happy vs Sad
