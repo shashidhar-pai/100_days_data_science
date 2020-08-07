@@ -40,3 +40,6 @@ Day 7
 
 Day 8 
 1) Image Classifer -- Dog vs Cat
+
+Day 9 
+1) Image Augmentation
