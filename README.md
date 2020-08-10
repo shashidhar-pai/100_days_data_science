@@ -46,3 +46,8 @@ Day 9
 
 Day 10
 1) Cats vs Dogs Implementation 
+
+Day 11
+1) Image Augmentation - Over fittign - Implementation
+2) https://keras.io/api/preprocessing/image/#flow_from_directory-method
+
