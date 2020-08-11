@@ -51,3 +51,8 @@ Day 11
 1) Image Augmentation - Over fittign - Implementation
 2) https://keras.io/api/preprocessing/image/#flow_from_directory-method
 
+Day 12 
+1) Leet code problems 
+   * 1.a Excel Sheet Column Number (#171)
+   * 1.b H-Index (#274)
+
