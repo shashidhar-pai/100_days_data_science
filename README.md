@@ -55,4 +55,9 @@ Day 12
 1) Leet code problems 
    * 1.a Excel Sheet Column Number (#171)
    * 1.b H-Index (#274)
+   
+Day 13
+1) Leet code problems 
+   * 1.a Pascal's Triangle (#119)
+2) Week 3 in Tensorflow for Practive : Transfer Learning
 
