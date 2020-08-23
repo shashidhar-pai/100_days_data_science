@@ -71,3 +71,8 @@ Day 15
    * 1.a Longest Palindrome(#409)
 2) Week 4 in Tensorflow for Practive : Multi-class Classification 
 
+
+Day 22)
+1) Minimum Numbers of Function Calls to Make Target Array (# 1558)
+2) Thousand Separator (# 1556)
+
